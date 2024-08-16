@@ -2,26 +2,28 @@
 
 ## Table of Contents
 
-1. [Power BI Tutorials](#power-bi-tutorials)
-2. [Bonus Resource](#bonus-resource)
+1. [Power BI Introduction](#power-bi-introduction)
+2. [Power BI Tutorials](#power-bi-tutorials)
+3. [Bonus Resource](#bonus-resource)
+4. [Conclusion](#conclusion)
 
 ---
 
-# Power BI
+## Power BI Introduction
 
 **Power BI** is a powerful business analytics tool developed by Microsoft that allows users to connect to various data sources, transform raw data into meaningful insights, and create interactive dashboards and reports. It integrates well with other Microsoft products, making it a popular choice for data professionals.
 
-## Why Data Analysts Use Power BI
+### Why Data Analysts Use Power BI
 - **Data Visualization:** Power BI enables data analysts to create visually appealing and interactive reports that help stakeholders understand complex data through charts, graphs, and maps.
 - **Data Integration:** It can connect to a wide range of data sources, including Excel, SQL Server, cloud services, and more, making it easy to bring together diverse datasets.
 - **Real-Time Analysis:** With Power BI, analysts can monitor data in real-time, allowing for immediate insights and quicker decision-making.
 
-## How Learning Power BI Can Help Data Analysts
+### How Learning Power BI Can Help Data Analysts
 - **Enhanced Data Storytelling:** Power BI's visual tools help analysts effectively communicate insights, making their findings more accessible and impactful.
 - **Career Growth:** Proficiency in Power BI is in high demand, and mastering it can open doors to more advanced roles in data analytics and business intelligence.
 - **Efficiency:** Power BI automates many tasks, freeing up time for analysts to focus on more strategic activities. 
 
-Learning Power BI equips data analysts with the skills to turn data into actionable insights, making them valuable assets to any organization.
+### Learning Power BI equips data analysts with the skills to turn data into actionable insights, making them valuable assets to any organization.
 
 ---
 
@@ -41,3 +43,13 @@ Learning Power BI equips data analysts with the skills to turn data into actiona
 ## Bonus Resource
 
 [100+ Best Resources to Learn Power BI in 2023 (incl DAX, M)](https://gorilla.bi/power-bi/best-learning-resources/)
+
+---
+
+## Conclusion
+
+This comprehensive roadmap for mastering Microsoft Power BI is designed to guide you from the basics to advanced levels, ensuring you gain the skills necessary to become a proficient data analyst. Power BI is a powerful tool for data visualization, analysis, and business intelligence, and this roadmap includes a curated list of free resources that cover all aspects of the tool. 
+
+By following this roadmap, you will start with foundational knowledge, including Power Query and Power Pivot, and progress to more advanced topics like DAX (Data Analysis Expressions), data modeling, and Power BI Services. The included projects and real-world examples provide hands-on experience, allowing you to apply what you've learned and build a robust portfolio.
+
+This roadmap is particularly valuable for those who cannot afford paid courses or are unsure about where to start their learning journey. It offers a structured learning path, ensuring that you learn the right skills in the right order. By the end of this roadmap, you will have a deep understanding of Power BI and be well-equipped to tackle data analysis challenges in any professional setting, making you a strong candidate for data analytics roles.
