@@ -6,6 +6,7 @@
 2. [Power BI Tutorials](#power-bi-tutorials)
 3. [Bonus Resource](#bonus-resource)
 4. [Conclusion](#conclusion)
+5. [Contact Details](#contact-details)
 
 ---
 
@@ -53,3 +54,11 @@ This comprehensive roadmap for mastering Microsoft Power BI is designed to guide
 By following this roadmap, you will start with foundational knowledge, including Power Query and Power Pivot, and progress to more advanced topics like DAX (Data Analysis Expressions), data modeling, and Power BI Services. The included projects and real-world examples provide hands-on experience, allowing you to apply what you've learned and build a robust portfolio.
 
 This roadmap is particularly valuable for those who cannot afford paid courses or are unsure about where to start their learning journey. It offers a structured learning path, ensuring that you learn the right skills in the right order. By the end of this roadmap, you will have a deep understanding of Power BI and be well-equipped to tackle data analysis challenges in any professional setting, making you a strong candidate for data analytics roles.
+
+---
+
+## Contact Details
+
+**Call:** +92-318-815444-1  
+**Email:** qamaruddinkhichi123@gmail.com  
+**LinkedIn:** [linkedin.com/in/qamaruddin-khichi/](https://www.linkedin.com/in/qamaruddin-khichi/)
